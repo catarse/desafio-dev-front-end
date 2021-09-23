@@ -33,3 +33,11 @@ Instale o json-server no seu ambiente: https://github.com/typicode/json-server
 Depois execute `json-server --watch db.json`. Esse `db.json` é o arquivo que está presente no repositório. São os dados dos projetos.
 
 Acesse `http//localhost:3000/projects` para acessar a listagem de projetos. E `http//localhost:3000/projects/:id` para acessar um projeto apenas.
+
+## Layout
+A página home, que lista os projetos (é o arquivo layout-home.html):
+![layout-home.html](https://user-images.githubusercontent.com/3025661/134577514-b59b6f91-135d-445d-8620-82304019e9b3.png)
+
+A página de detalhes do projeto (é o arquivo layout-project.html):
+![layout-project.html](https://user-images.githubusercontent.com/3025661/134577615-4db721a2-ea01-415a-acb9-7b5d63bc31a0.png)
+
