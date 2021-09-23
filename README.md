@@ -1,6 +1,6 @@
 # Desafio Pessoa Desenvolvedora Front-end
 
-O desafio consiste na implementação de um projeto utilizando o framework front-end de sua preferência. Fornecemos o layout e os dados para a API para auxiliar no desenvolvimento.
+O desafio consiste na implementação de um projeto utilizando o framework front-end de sua preferência.
 
 O projeto é o Catarsinho, um Catarse com um escopo bem reduzido, onde será possível visualizar os projetos da plataforma, visitar a página do projeto e adicionar um apoio numa "cesta de apoio". Para auxiliar e focar apenas no que importa para nós, estamos fornecendo um layout já pronto (feito utilizando https://bulma.io) e também um conjunto de dados para simular uma API em ambiente local.
 
@@ -10,9 +10,9 @@ Utilizando a API e o layout fornecidos, queremos que você implemente do front-e
 
 - Utilizar o framework de sua preferência (Vue.js, Angular, Svelte, React e etc)
 - Criar página de visualização de projetos
-  - Mostrar: nome, imagem, progresso da campanha, % arrecadada e valor arrecadado
+  - Mostrar: nome, imagem, progresso da campanha, % arrecadadado e valor arrecadado
 - Criar página de detalhes do projeto
-  - Mostrar nome, imagem, progresso da campanha, % arrecadada, valor arrecadado e descrição do projeto
+  - Mostrar nome, imagem, progresso da campanha, % arrecadadado, valor arrecadado e descrição do projeto
 - Na página de detalhes do projeto, mostrar as opções de apoio do projeto e um botão "Apoiar"
   - São 4 opções: R$ 10, R$ 25, R$ 50 e R$ 100.
 - Ao clicar em "Apoiar", Os valores na barra de navegação (quantidade de itens e valor total dos apoios) deverão ser atualizados
